@@ -1,3 +1,8 @@
+
+# (n⁵-1)/2=i² ifadesini sağlayan i tam sayısı kaçtır?
+
+
+
 import math
 
 def us(x, y):
