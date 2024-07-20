@@ -1,3 +1,8 @@
+
+# 1+n+n²+n³+n⁴+n⁵=i² ifadesini sağlayan i tam sayısı kaçtır?
+
+
+
 import math
 def us(x, y):
     t = int(math.pow(x, y))
